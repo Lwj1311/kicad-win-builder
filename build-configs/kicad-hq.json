@@ -9,7 +9,8 @@
     },
     "sources": {
         "kicad": {
-            "ref": "branch/release/10.0"
+            "repo": "https://gitlab.com/Liuweijian123/kicad.git",
+            "ref": "branch/feat/add_local_copilot"
         },
         "symbols": {
             "ref": "tag/10.0.5"
