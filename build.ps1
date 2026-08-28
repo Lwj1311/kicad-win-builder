@@ -696,7 +696,7 @@ function Start-Build {
     )
 
     # NOTE Change to your own fork
-    Get-Source -url https://gitlab.com/kicad-hq/kicad.git `
+    Get-Source -url https://gitlab.com/Liuweijian123/kicad.git `
                -dest (Get-Source-Path kicad) `
                -sourceType git `
                -latest $latest `
