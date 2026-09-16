@@ -9,8 +9,7 @@
     },
     "sources": {
         "kicad": {
-            "repo": "https://gitlab.com/Liuweijian123/kicad.git",
-            "ref": "branch/feat/add_local_copilot"
+            "ref": "branch/feat/pcb_placement"
         },
         "symbols": {
             "ref": "tag/10.0.7"
