@@ -9,7 +9,7 @@
     },
     "sources": {
         "kicad": {
-            "ref": "branch/feat/pcb_placement"
+            "ref": "branch/release/10.0"
         },
         "symbols": {
             "ref": "tag/10.0.7"
